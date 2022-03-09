@@ -15,7 +15,5 @@ class MainActivity : AppCompatActivity() {
         // João add new method C
 
         // Jose added new method D
-
-        // CONTIMUE MASTER
     }
 }
